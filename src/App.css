@@ -1,0 +1,19 @@
+
+.nonet{
+  align-items: center;
+  text-align: center;
+}
+
+.nonetImg{
+    margin-top: 20px;
+    width:350px;
+    height:300px;
+    align-content:"center";
+    display:"flex";
+    justify-content:"center"
+}
+.nonet button{
+  background-color:black;
+  color:white;
+}
+
